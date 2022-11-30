@@ -33,3 +33,4 @@
 > * 資料四 [Medium 快速鍵效果展示](https://medium.com/@luyo/medium-快速鍵效果展示及使用心得-b6e4c0203816)
 > * 資料五 [發表第一篇 Medium 文章的手把手教學](https://medium.com/itsoktomakemistakes/%E7%99%BC%E8%A1%A8%E7%AC%AC%E4%B8%80%E7%AF%87-medium-%E6%96%87%E7%AB%A0%E7%9A%84%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E5%AD%B8-4a3ad211484a#4115)
 > * 資料六 [政府資源開放平臺](https://data.gov.tw/)
+> * 資料七 [東吳大學 X 理律學堂《那些年我們一起寫過的程式》](https://github.com/pecu/LawTech)
