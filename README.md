@@ -30,3 +30,4 @@
 > * 資料一 [Markdown 教學](https://gist.github.com/christech1117/6dc5221c177104990767d6490ad8c7ba)  
 > * 資料二 [如何使用 Python 製作文字雲](https://tech.havocfuture.tw/blog/python-wordcloud-jieba#%E5%AD%97%E5%9E%8B%E6%AA%94)
 > * 資料三 [Medium 快速鍵效果展示](https://medium.com/@luyo/medium-快速鍵效果展示及使用心得-b6e4c0203816)
+> * 資料四 [政府資源開放平臺](https://data.gov.tw/)
