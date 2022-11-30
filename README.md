@@ -23,8 +23,8 @@
 
 
 >* 第二週
->>* [練習一](https://github.com/61071009H/PL/blob/main/Python01_week2.ipynb)
->>* 本週參考資料 [資料型態 - 整數、浮點數](https://ithelp.ithome.com.tw/articles/10287917)
+>> [練習一](https://github.com/61071009H/PL/blob/main/Python01_week2.ipynb)
+>> 本週參考資料 [資料型態 - 整數、浮點數](https://ithelp.ithome.com.tw/articles/10287917)
         
 ## 📚專題連結區
 
