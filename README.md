@@ -28,6 +28,8 @@
 >> 課堂練習   [練習一](https://github.com/61071009H/PL/blob/main/Python01_week2.ipynb)  
 >> 回家練習   [練習二](https://github.com/61071009H/PL/blob/main/%E7%B7%B4%E7%BF%92%E8%B3%87%E6%96%99%E5%A4%BE/Python02_week2.ipynb)  
 >> 本週參考資料 [資料型態 - 整數、浮點數](https://ithelp.ithome.com.tw/articles/10287917)
+>* 第三週
+>> 
         
 ## 📚專題連結區
 
