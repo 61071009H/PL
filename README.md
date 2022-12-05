@@ -46,3 +46,4 @@
 > * 資料七 [東吳大學 X 理律學堂《那些年我們一起寫過的程式》](https://github.com/pecu/LawTech)
 > * 資料八 [30 天把自己榨好榨滿的四週四語言大挑戰！](https://ithelp.ithome.com.tw/users/20119877/ironman/2742)
 > * 資料九 [Python語法](https://www.w3schools.com/python/python_conditions.asp)
+> * 資料十 [stackoverflow](https://stackoverflow.com/questions)
