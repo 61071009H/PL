@@ -34,6 +34,10 @@
 ## 📚專題連結區
 
 
+> * [臺師大科技系 111-1 程式語言期末專題各組提案播放清單](https://youtube.com/playlist?list=PLH3VeiMX0ckgMa2uw4TF907vdkijywV9I)
+> * [臺師大科技系 111-1 程式語言期末專題發表DEMODAY講評](https://www.youtube.com/watch?v=VMUWG4Y6FoM&list=PLG2Crrmgee5_I2L4CZE6VwF40Qy1b3FxG&index=28&t=678s)
+
+
 ## 🧮參考資料區
 
 
