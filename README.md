@@ -10,8 +10,8 @@
 
 
 >* [作業一](https://github.com/61071009H/PL/tree/main/%E4%BD%9C%E6%A5%AD%E8%B3%87%E6%96%99%E5%A4%BE/HW_1)
->* [作業二](https://github.com/61071009H/PL/blob/main/%E4%BD%9C%E6%A5%AD%E8%B3%87%E6%96%99%E5%A4%BE/HW_2/HW_2.ipynb)
->* [作業三](https://github.com/61071009H/PL/blob/main/%E4%BD%9C%E6%A5%AD%E8%B3%87%E6%96%99%E5%A4%BE/HW_3/HW_03.ipynb)
+>* [作業二](https://github.com/61071009H/PL/tree/main/%E4%BD%9C%E6%A5%AD%E8%B3%87%E6%96%99%E5%A4%BE/HW_2)
+>* [作業三](https://github.com/61071009H/PL/tree/main/%E4%BD%9C%E6%A5%AD%E8%B3%87%E6%96%99%E5%A4%BE/HW_3)
 >* [作業四](https://github.com/61071009H/PL/blob/main/%E4%BD%9C%E6%A5%AD%E8%B3%87%E6%96%99%E5%A4%BE/HW_04.ipynb)
 >* [作業五](https://github.com/61071009H/PL/tree/main/%E4%BD%9C%E6%A5%AD%E8%B3%87%E6%96%99%E5%A4%BE/HW_5)  [medium](https://medium.com/@61071009h/111-1%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80%E4%BD%9C%E6%A5%AD%E4%BA%94-be0c9a6518c)
 
