@@ -1,7 +1,6 @@
 # 111-1師大科技系程式語言
 
-👩‍🏫授課老師：[**蔡芸琤**](https://github.com/pecu) 老師 
-
+👩‍🏫授課老師：[**蔡芸琤**](https://github.com/pecu) 老師　
 🙋‍♀️姓名：**吳詩怡**
 
 📂系級：科技系碩二
@@ -31,7 +30,7 @@
 >> 回家練習   [練習二](https://github.com/61071009H/PL/blob/main/%E7%B7%B4%E7%BF%92%E8%B3%87%E6%96%99%E5%A4%BE/Python02_week2.ipynb)  
 >> 本週參考資料 [資料型態 - 整數、浮點數](https://ithelp.ithome.com.tw/articles/10287917)
 >* 第三週
->> 第一次作業老師提供的錦囊 [工具示範](https://github.com/pecu/LawTech/blob/main/Learning-Materials/C1_Python_%E5%9F%BA%E7%A4%8E_02/python_%E5%9F%BA%E7%A4%8E%E7%B5%84%E5%90%88%E4%BA%8C_code.ipynb)
+>> 第一次作業老師提供的錦囊 [工具示範](https://github.com/pecu/LawTech/blob/main/Learning-Materials/C1_Python_%E5%9F%BA%E7%A4%8E_02/python_%E5%9F%BA%E7%A4%8E%E7%B5%84%E5%90%88%E4%BA%8C_code.ipynb)　
 >> 第一次作業老師的示範程式 [程式碼](https://github.com/pecu/PL/blob/main/Python02.ipynb)
         
 ## 📚專題連結區
