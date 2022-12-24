@@ -7,6 +7,7 @@
 📂系級：科技系碩二
 
 🎞課程影片：[Youtube](https://youtube.com/playlist?list=PLG2Crrmgee5_I2L4CZE6VwF40Qy1b3FxG)
+🎀老師的PL repository：[LINK](https://github.com/pecu/PL)
 
 ## 📃作業連結區
 
@@ -30,6 +31,7 @@
 >> 本週參考資料 [資料型態 - 整數、浮點數](https://ithelp.ithome.com.tw/articles/10287917)
 >* 第三週
 >> 第一次作業老師提供的錦囊 [工具示範](https://github.com/pecu/LawTech/blob/main/Learning-Materials/C1_Python_%E5%9F%BA%E7%A4%8E_02/python_%E5%9F%BA%E7%A4%8E%E7%B5%84%E5%90%88%E4%BA%8C_code.ipynb)
+>> 第一次作業老師的示範程式 [程式碼](https://github.com/pecu/PL/blob/main/Python02.ipynb)
         
 ## 📚專題連結區
 
